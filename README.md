@@ -23,7 +23,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 4. Click Reset to play again
 
 ## 📷 Screenshot
-![Game Screenshot](Screenshot 2026-03-24 014023.png)
+![Game Screenshot](screenshot.png)
 
 ---
 
